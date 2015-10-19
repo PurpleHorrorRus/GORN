@@ -1,2 +1,2 @@
-# GORN
-Generation of random numbers using by StringTokenizer
+# Зачем оно?
+Простое мясо.
